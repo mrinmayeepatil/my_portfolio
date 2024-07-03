@@ -31,29 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Telemetrix Insighthub",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Telemetrix InsightHub project is a thorough arrangement intended for constant observing and investigation of different measurements inside a framework, utilizing the strong capacities of Influx DB. This telemetry project gives a bound together stage to gather, store, and imagine time-series information, offering significant bits of knowledge into the exhibition. The backbone of the Telemetrix InsightHub is Influx DB, a robust time-series database known for its scalability and efficiency in handling vast amounts of time stamped data. We have used react js to create the front end, node js for backend and grafana for visualization of data.",
+    // url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "LinQ App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a chatting app for students and teachers where teachers can interact with students and students can interact with both teachers and students themselves. Teachers can assign assignments to students and students can submit their work and also can ask their doubts. Basically, this app is like google classroom with added features like realtime messaging. In this project, we have used", 
+        //  url: "https://github.com/microsoft/web-dev-for-beginners",
   },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  // {
+  //   title: "My Resume Site",
+  //   description:
+  //     "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+  //   url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+  // },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {
